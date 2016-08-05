@@ -1,6 +1,6 @@
 #!/bin/bash
-Icon="$HOME/Projects/scripts-yoga900/keyEnable.png"
-Icoff="$HOME/Projects/scripts-yoga900/keyDisable.png"
+Icon="$HOME/Projects/scripts-yoga-900-13ISK/keyEnable.png"
+Icoff="$HOME/Projects/scripts-yoga-900-13ISK/keyDisable.png"
 
 theOutput=$(xinput -list-props 'AT Translated Set 2 keyboard' | grep "Device Enabled" | cut -f3)
 echo $theOutput
