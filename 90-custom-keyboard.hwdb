@@ -1,0 +1,3 @@
+# Lenovo YOGA 900-13ISK
+evdev:atkbd:dmi:bvn*:bvr*:bd*:svnLENOVO*:pn*:pvrLenovoYOGA900*
+ KEYBOARD_KEY_bf=f21                                   # Fn+F6 Disable Touchpad
