@@ -13,6 +13,8 @@ To rotate the screen you need to execute the scripts:
 
     *) "rotate-normal.sh" to rotate in normal mode. This scripts enable the keyboard and trackpad.
 
+    *) "movie-mode.sh" set up the laptop in movie mode: keyboard and trackpad disable.
+
 
 To activate Fn+F6 to conmute the trackpad you need to (with root acces like sudo):
 
