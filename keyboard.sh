@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/zsh
+
 Icon="$HOME/Projects/scripts-yoga-900-13ISK/keyEnable.png"
 Icoff="$HOME/Projects/scripts-yoga-900-13ISK/keyDisable.png"
 
